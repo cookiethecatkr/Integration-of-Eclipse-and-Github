@@ -26,7 +26,6 @@ public class SamsungTV implements TV {
 	}
 	public void volumeDown() { 
 		System.out.println(" sm volume down");
-		System.out.println("1");
-	}
+		
 	
 }
